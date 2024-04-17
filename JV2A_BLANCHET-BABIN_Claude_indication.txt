@@ -1,0 +1,12 @@
+Les éléments des Features Obligatoires sont présents.
+
+J'ai perdu du temps sur la téléportation du joueur en cas de chute dans le vide.
+
+Les premiers éléments d'UI ont été intégré via le "print"
+
+J'ai commencé l'intégration de la variante UI.
+- les texte "scores" et "vie" sont positionnés via les anchor
+- Au début je pensais que que la nomenclature était WBP_ ; après vérification sur le lien "naming conventions", il faut utiliser W_ pour un widget blueprint UI
+
+
+D'une manière générale j'ai pris beaucoup de temps à ajouter les features obligatoires.
