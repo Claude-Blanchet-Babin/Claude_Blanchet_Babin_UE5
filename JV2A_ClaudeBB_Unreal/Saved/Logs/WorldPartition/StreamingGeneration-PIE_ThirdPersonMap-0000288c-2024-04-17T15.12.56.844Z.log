@@ -1,0 +1,172 @@
+[+] Containers:
+ |- [+] Container: /Game/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:08A07C04403B5E8DFA36158D7C8725E2 BaseClass:/Game/BLANCHET-BABIN_Claude/BP_Trap.BP_Trap_C NativeClass:/Script/Engine.Actor Name:BP_Trap_C_UAID_84A93E8E20020BED01_1581035371 Label:BP_Trap SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1380.000 Y=900.000 Z=-46.000), Max=(X=1480.000 Y=1000.000 Z=70.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:0A733B864C327F0B589EC8BBDD0265BC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_13 Label:SM_Cube9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1300.000 Y=2800.000 Z=0.000), Max=(X=1500.000 Y=3000.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block01 FolderGuid:7D23E5AE4C2A421F86AF6986D87E6D05
+ |   |   |- Guid:113DAC1B4813DEF9FA57DFACE442CA03 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_84A93E8E20020BED01_1732187373 Label:SM_Cube2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1270.000 Y=200.000 Z=-50.000), Max=(X=1670.000 Y=1200.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- Guid:1A19325941399A09EA6A18A4640BA41C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_84A93E8E20020BED01_1789527375 Label:SM_Cube15 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1320.000 Y=610.000 Z=0.000), Max=(X=1520.000 Y=810.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block01 FolderGuid:7D23E5AE4C2A421F86AF6986D87E6D05
+ |   |   |- Guid:2FB58999456391D349DC0F86DAC136ED BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_1 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=690.000), Max=(X=0.000 Y=0.000 Z=690.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:316CF2A6494ACA4C0E4180A87D36AB8F BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_0 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:3A00AA1C422CE54C0BDB60BAF471BFBB BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=1350.000 Y=3210.000 Z=0.000), Max=(X=1430.000 Y=3290.000 Z=184.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:43815E84492231AFC407F59E3C28176B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_4 Label:SM_Cube6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2900.000 Y=100.000 Z=0.000), Max=(X=3000.000 Y=3400.000 Z=400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- Guid:4D3BE93F4146AAAC8BBE79999D96D57F BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_0 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=820.000), Max=(X=0.000 Y=0.000 Z=820.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:5910769D48C6B70A3CAB9B92EB5F42BC BaseClass:/Game/BLANCHET-BABIN_Claude/BP_DeadZone.BP_DeadZone_C NativeClass:/Script/Engine.Actor Name:BP_DeadZone_C_UAID_84A93E8E200209ED01_1649072015 Label:BP_DeadZone SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1510.000 Y=-2930.000 Z=-192.000), Max=(X=4890.000 Y=3470.000 Z=-128.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:59368D2448EA9BC480F119AD38B24C2B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_84A93E8E20020BED01_1649598372 Label:SM_Cube14 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1310.000 Y=1000.000 Z=0.000), Max=(X=1510.000 Y=1200.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block01 FolderGuid:7D23E5AE4C2A421F86AF6986D87E6D05
+ |   |   |- Guid:5B97F4A64FB21F77EFC44386BF705B4C BaseClass: NativeClass:/Script/Engine.TextRenderActor Name:TextRenderActor_1 Label:TextRenderActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2879.900 Y=1100.000 Z=65.013), Max=(X=2879.900 Y=2392.308 Z=215.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:6BAF4DDD444C60371492D3919DB42C97 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- Guid:763481CA4F51FAA9269103AD48CDD9E2 BaseClass:/Game/BLANCHET-BABIN_Claude/BP_Collectable_Object.BP_Collectable_Object_C NativeClass:/Script/Engine.Actor Name:BP_Collectable_Object_C_UAID_84A93E8E20020BED01_1255883370 Label:BP_Collectable_Object3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1368.000 Y=1458.000 Z=248.000), Max=(X=1432.000 Y=1522.000 Z=312.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:961864A84FF6F65B68F2A3BE5819D538 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_8 Label:SM_Cube4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1300.000 Y=1390.000 Z=0.000), Max=(X=1500.000 Y=1890.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block01 FolderGuid:7D23E5AE4C2A421F86AF6986D87E6D05
+ |   |   |- Guid:9BFF363746062F457E2F92A4631DBA20 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_11 Label:SM_ChamferCube3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1366.699 Y=3641.699 Z=0.013), Max=(X=1503.301 Y=3778.301 Z=100.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:A1F7BA254567177A896E01BCD88A0FCE BaseClass:/Game/BLANCHET-BABIN_Claude/BP_Collectable_Object.BP_Collectable_Object_C NativeClass:/Script/Engine.Actor Name:BP_Collectable_Object_C_UAID_84A93E8E20020AED01_2043698193 Label:BP_Collectable_Object2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1368.000 Y=1758.000 Z=248.000), Max=(X=1432.000 Y=1822.000 Z=312.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:B785ED2844B84CFB91E7F39FE661CD99 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_0 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:CCFF262C46EEFFDF319E7F9539CE697E BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_0 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=1020.000), Max=(X=0.000 Y=0.000 Z=1020.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:E94C25EF45FAA14AC7E047AA4F9509BA BaseClass:/Game/BLANCHET-BABIN_Claude/BP_Collectable_Object.BP_Collectable_Object_C NativeClass:/Script/Engine.Actor Name:BP_Collectable_Object_C_UAID_84A93E8E20020AED01_1321806192 Label:BP_Collectable_Object SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1368.000 Y=2568.000 Z=48.063), Max=(X=1432.000 Y=2632.000 Z=112.063) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:EC4E0C944CE6AC6E784BC6BB2916EA13 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC5EFB00_1110535423 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:EDAA34A64E50B17535C2EB826C12557D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_9 Label:SM_Ramp2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1300.000 Y=2000.000 Z=0.000), Max=(X=1500.000 Y=2400.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block01 FolderGuid:7D23E5AE4C2A421F86AF6986D87E6D05
+ |   |   |- Guid:F1924B8D48954B30891B2DB6A694F9CC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_1 Label:SM_Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1260.000 Y=1390.000 Z=-50.000), Max=(X=1660.000 Y=6390.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- Guid:FA19B9DC47C19ADAE21D1F8AF50A311F BaseClass:/Game/BLANCHET-BABIN_Claude/BP_Trap.BP_Trap_C NativeClass:/Script/Engine.Actor Name:BP_Trap_C_UAID_84A93E8E20020BED01_1773027374 Label:BP_Trap2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1380.000 Y=800.000 Z=-46.000), Max=(X=1480.000 Y=900.000 Z=70.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:FF698C67459ADB4982D7759C0905EE9F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_6 Label:SM_Cube3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1290.000 Y=3400.000 Z=0.000), Max=(X=4290.000 Y=3500.000 Z=400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:08A07C04403B5E8DFA36158D7C8725E2 BaseClass:/Game/BLANCHET-BABIN_Claude/BP_Trap.BP_Trap_C NativeClass:/Script/Engine.Actor Name:BP_Trap_C_UAID_84A93E8E20020BED01_1581035371 Label:BP_Trap SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1380.000 Y=900.000 Z=-46.000), Max=(X=1480.000 Y=1000.000 Z=70.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:0A733B864C327F0B589EC8BBDD0265BC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_13 Label:SM_Cube9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1300.000 Y=2800.000 Z=0.000), Max=(X=1500.000 Y=3000.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block01 FolderGuid:7D23E5AE4C2A421F86AF6986D87E6D05
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:113DAC1B4813DEF9FA57DFACE442CA03 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_84A93E8E20020BED01_1732187373 Label:SM_Cube2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1270.000 Y=200.000 Z=-50.000), Max=(X=1670.000 Y=1200.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:1A19325941399A09EA6A18A4640BA41C BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_84A93E8E20020BED01_1789527375 Label:SM_Cube15 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1320.000 Y=610.000 Z=0.000), Max=(X=1520.000 Y=810.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block01 FolderGuid:7D23E5AE4C2A421F86AF6986D87E6D05
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:2FB58999456391D349DC0F86DAC136ED BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_1 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=690.000), Max=(X=0.000 Y=0.000 Z=690.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:316CF2A6494ACA4C0E4180A87D36AB8F BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_0 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:3A00AA1C422CE54C0BDB60BAF471BFBB BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=1350.000 Y=3210.000 Z=0.000), Max=(X=1430.000 Y=3290.000 Z=184.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:43815E84492231AFC407F59E3C28176B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_4 Label:SM_Cube6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2900.000 Y=100.000 Z=0.000), Max=(X=3000.000 Y=3400.000 Z=400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:4D3BE93F4146AAAC8BBE79999D96D57F BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_0 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=820.000), Max=(X=0.000 Y=0.000 Z=820.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:5910769D48C6B70A3CAB9B92EB5F42BC BaseClass:/Game/BLANCHET-BABIN_Claude/BP_DeadZone.BP_DeadZone_C NativeClass:/Script/Engine.Actor Name:BP_DeadZone_C_UAID_84A93E8E200209ED01_1649072015 Label:BP_DeadZone SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1510.000 Y=-2930.000 Z=-192.000), Max=(X=4890.000 Y=3470.000 Z=-128.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:59368D2448EA9BC480F119AD38B24C2B BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_84A93E8E20020BED01_1649598372 Label:SM_Cube14 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1310.000 Y=1000.000 Z=0.000), Max=(X=1510.000 Y=1200.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block01 FolderGuid:7D23E5AE4C2A421F86AF6986D87E6D05
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:5B97F4A64FB21F77EFC44386BF705B4C BaseClass: NativeClass:/Script/Engine.TextRenderActor Name:TextRenderActor_1 Label:TextRenderActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2879.900 Y=1100.000 Z=65.013), Max=(X=2879.900 Y=2392.308 Z=215.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:6BAF4DDD444C60371492D3919DB42C97 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:763481CA4F51FAA9269103AD48CDD9E2 BaseClass:/Game/BLANCHET-BABIN_Claude/BP_Collectable_Object.BP_Collectable_Object_C NativeClass:/Script/Engine.Actor Name:BP_Collectable_Object_C_UAID_84A93E8E20020BED01_1255883370 Label:BP_Collectable_Object3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1368.000 Y=1458.000 Z=248.000), Max=(X=1432.000 Y=1522.000 Z=312.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:961864A84FF6F65B68F2A3BE5819D538 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_8 Label:SM_Cube4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1300.000 Y=1390.000 Z=0.000), Max=(X=1500.000 Y=1890.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block01 FolderGuid:7D23E5AE4C2A421F86AF6986D87E6D05
+ |   |   |- [+] [ 15]
+ |   |   |   |- Guid:9BFF363746062F457E2F92A4631DBA20 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_11 Label:SM_ChamferCube3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1366.699 Y=3641.699 Z=0.013), Max=(X=1503.301 Y=3778.301 Z=100.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 16]
+ |   |   |   |- Guid:A1F7BA254567177A896E01BCD88A0FCE BaseClass:/Game/BLANCHET-BABIN_Claude/BP_Collectable_Object.BP_Collectable_Object_C NativeClass:/Script/Engine.Actor Name:BP_Collectable_Object_C_UAID_84A93E8E20020AED01_2043698193 Label:BP_Collectable_Object2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1368.000 Y=1758.000 Z=248.000), Max=(X=1432.000 Y=1822.000 Z=312.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 17]
+ |   |   |   |- Guid:B785ED2844B84CFB91E7F39FE661CD99 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_0 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [ 18]
+ |   |   |   |- Guid:CCFF262C46EEFFDF319E7F9539CE697E BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_0 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=1020.000), Max=(X=0.000 Y=0.000 Z=1020.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [ 19]
+ |   |   |   |- Guid:E94C25EF45FAA14AC7E047AA4F9509BA BaseClass:/Game/BLANCHET-BABIN_Claude/BP_Collectable_Object.BP_Collectable_Object_C NativeClass:/Script/Engine.Actor Name:BP_Collectable_Object_C_UAID_84A93E8E20020AED01_1321806192 Label:BP_Collectable_Object SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1368.000 Y=2568.000 Z=48.063), Max=(X=1432.000 Y=2632.000 Z=112.063) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 20]
+ |   |   |   |- Guid:EC4E0C944CE6AC6E784BC6BB2916EA13 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC5EFB00_1110535423 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [ 21]
+ |   |   |   |- Guid:EDAA34A64E50B17535C2EB826C12557D BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_9 Label:SM_Ramp2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1300.000 Y=2000.000 Z=0.000), Max=(X=1500.000 Y=2400.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Block01 FolderGuid:7D23E5AE4C2A421F86AF6986D87E6D05
+ |   |   |- [+] [ 22]
+ |   |   |   |- Guid:F1924B8D48954B30891B2DB6A694F9CC BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_1 Label:SM_Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1260.000 Y=1390.000 Z=-50.000), Max=(X=1660.000 Y=6390.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |   |   |- [+] [ 23]
+ |   |   |   |- Guid:FA19B9DC47C19ADAE21D1F8AF50A311F BaseClass:/Game/BLANCHET-BABIN_Claude/BP_Trap.BP_Trap_C NativeClass:/Script/Engine.Actor Name:BP_Trap_C_UAID_84A93E8E20020BED01_1773027374 Label:BP_Trap2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1380.000 Y=800.000 Z=-46.000), Max=(X=1480.000 Y=900.000 Z=70.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 24]
+ |   |   |   |- Guid:FF698C67459ADB4982D7759C0905EE9F BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_6 Label:SM_Cube3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1290.000 Y=3400.000 Z=0.000), Max=(X=4290.000 Y=3500.000 Z=400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Playground FolderGuid:C73F09FC4215536B1DCE2A9E0A830C70
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap
+----------------------------------------------------------------------------------------------------------------
+ThirdPersonMap - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of ThirdPersonMap Persistent Level
+ |- Always loaded Actor Count: 32 
+ |- Actor Path: /Game/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.AbstractNavData-Default
+ |- Actor Package: /Game/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap
+ |- Actor Path: /Game/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Collectable_Object_C_UAID_84A93E8E20020AED01_1321806192
+ |- Actor Package: /Game/__ExternalActors__/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap/6/Z5/5G7ZZY8X6B2Z14WA5652O2
+ |- Actor Path: /Game/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Collectable_Object_C_UAID_84A93E8E20020AED01_2043698193
+ |- Actor Package: /Game/__ExternalActors__/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap/7/IF/CJP4VEHCVRDL0NMFKS3HT8
+ |- Actor Path: /Game/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Collectable_Object_C_UAID_84A93E8E20020BED01_1255883370
+ |- Actor Package: /Game/__ExternalActors__/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap/C/TI/2VPT7N52GMC0GY7GSABFEW
+ |- Actor Path: /Game/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_DeadZone_C_UAID_84A93E8E200209ED01_1649072015
+ |- Actor Package: /Game/__ExternalActors__/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap/6/KA/SGNO0E4EA0YXUUSSWQ7K6R
+ |- Actor Path: /Game/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Trap_C_UAID_84A93E8E20020BED01_1581035371
+ |- Actor Package: /Game/__ExternalActors__/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap/C/QH/8YELICAMVURIPN38P5F8QM
+ |- Actor Path: /Game/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Trap_C_UAID_84A93E8E20020BED01_1773027374
+ |- Actor Package: /Game/__ExternalActors__/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap/7/WS/W4WS3HNRJ0VGQ1YMB6U2FR
+ |- Actor Path: /Game/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.Brush_0
+ |- Actor Package: /Game/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap
+ |- Actor Path: /Game/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DefaultPhysicsVolume_0
+ |- Actor Package: /Game/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap
+ |- Actor Path: /Game/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DirectionalLight_0
+ |- Actor Package: /Game/__ExternalActors__/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap/A/D4/VNP5BWT6BXK4BDFN4ZE3F1
+ |- Actor Path: /Game/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.ExponentialHeightFog_0
+ |- Actor Package: /Game/__ExternalActors__/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap/3/BI/5Y6R9MC3B6NV5LNKXY7FA9
+ |- Actor Path: /Game/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.GameplayDebuggerPlayerManager_0
+ |- Actor Package: /Game/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap
+ |- Actor Path: /Game/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PlayerStart_0
+ |- Actor Package: /Game/__ExternalActors__/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap/9/W7/70OITY1W2B0BP1QMURK3GB
+ |- Actor Path: /Game/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkyAtmosphere_0
+ |- Actor Package: /Game/__ExternalActors__/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap/7/IN/JA8FIDXMX60H2NWTCKBLW1
+ |- Actor Path: /Game/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.SkyLight_1
+ |- Actor Package: /Game/__ExternalActors__/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap/7/HA/JRACQ8X38RFRSQ9SDU01UU
+ |- Actor Path: /Game/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_1
+ |- Actor Package: /Game/__ExternalActors__/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap/4/JQ/PYKCKGRJOTQJ3Y4WVXOYD4
+ |- Actor Path: /Game/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_4
+ |- Actor Package: /Game/__ExternalActors__/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap/8/9B/MNF1VHAB5RY71FVJ8YEZ3N
+ |- Actor Path: /Game/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_6
+ |- Actor Package: /Game/__ExternalActors__/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap/A/JR/LLFT4X6WNMSEKLAAQ7ZK6U
+ |- Actor Path: /Game/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_8
+ |- Actor Package: /Game/__ExternalActors__/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap/D/SL/R05HOHI14XF198UW7E6MUK
+ |- Actor Path: /Game/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_9
+ |- Actor Package: /Game/__ExternalActors__/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap/3/79/8EF5K4NMNZY7TGQITO4MYR
+ |- Actor Path: /Game/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_11
+ |- Actor Package: /Game/__ExternalActors__/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap/1/DH/DL345WMX1JUJS91FCYSLGE
+ |- Actor Path: /Game/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_13
+ |- Actor Package: /Game/__ExternalActors__/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap/3/H8/A8Z1HV2DP55IZAJ93FKI25
+ |- Actor Path: /Game/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_84A93E8E20020BED01_1649598372
+ |- Actor Package: /Game/__ExternalActors__/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap/A/WL/LC7FFDXEVO33DLKN8CX3WL
+ |- Actor Path: /Game/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_84A93E8E20020BED01_1732187373
+ |- Actor Package: /Game/__ExternalActors__/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap/C/7T/9IEVV3TKSGVSW32LZZD35W
+ |- Actor Path: /Game/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_84A93E8E20020BED01_1789527375
+ |- Actor Package: /Game/__ExternalActors__/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap/2/4L/BTH6K946BZKX0VZ8QXE016
+ |- Actor Path: /Game/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC5EFB00_1110535423
+ |- Actor Package: /Game/__ExternalActors__/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap/9/2F/C3E4349GRZIJHVWIBKGS15
+ |- Actor Path: /Game/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_1
+ |- Actor Package: /Game/__ExternalActors__/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap/6/2E/FKKWIF8891GFXFPUS3OX81
+ |- Actor Path: /Game/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.ThirdPersonExampleMap_C_0
+ |- Actor Package: /Game/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap
+ |- Actor Path: /Game/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.VolumetricCloud_0
+ |- Actor Package: /Game/__ExternalActors__/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap/F/29/XAK8M9FMY11TRWIEKFDDYE
+ |- Actor Path: /Game/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap/A/XP/Q0CR3UGCKMAJRS9HOIXQCN
+ |- Actor Path: /Game/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WorldInfo_0
+ |- Actor Package: /Game/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap
+ |- Actor Path: /Game/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.WorldPartitionMiniMap_0
+ |- Actor Package: /Game/__ExternalActors__/BLANCHET-BABIN_Claude/ThirdPerson/Maps/ThirdPersonMap/6/QE/OADSKO2L5QISXZGVIZTPUP
+
+----------------------------------------------------------------------------------------------------------------
+ThirdPersonMap - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+            Origin: X=0.000 Y=0.000 Z=0.000
+
+[+] Grid Levels: 1
+ |- Level  0: Cell Count    0 | Cell Size   12800 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+
